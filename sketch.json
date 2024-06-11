@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:avr:nano",
+    "name": "Arduino Nano",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
